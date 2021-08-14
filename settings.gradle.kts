@@ -8,4 +8,3 @@
  */
 
 rootProject.name = "vietnamese-spell-check"
-include("app")
